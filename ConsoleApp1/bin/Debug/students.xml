@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student name="Петр ">
+    <group>Пибд</group>
+    <course>2</course>
+    <faculty>Фист</faculty>
+  </student>
+  <student name="Миша">
+    <group>Исэ</group>
+    <course>3</course>
+    <faculty>фист</faculty>
+  </student>
+</students>
